@@ -1,4 +1,4 @@
-import 'package:european_countries/screens/model/contries.dart';
+import 'package:european_countries/model/contries.dart';
 import 'package:european_countries/service/country_service.dart';
 import 'package:flutter/material.dart';
 import 'package:dio/dio.dart';

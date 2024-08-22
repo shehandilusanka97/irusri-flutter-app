@@ -32,7 +32,7 @@ class _HomeScreenState extends State<HomeScreen> {
           child: Column(
             children: [
               const SizedBox(height: 10,),
-              const Text('Here is the Counties',style: TextStyle(fontSize: 24, fontWeight: FontWeight.w700),),
+              const Text(' European countries',style: TextStyle(fontSize: 24, fontWeight: FontWeight.w700),),
               const SizedBox(height: 30,),
              
                 Container(

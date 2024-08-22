@@ -1,6 +1,6 @@
-import 'package:european_countries/screens/model/flags.dart';
-import 'package:european_countries/screens/model/languages.dart';
-import 'package:european_countries/screens/model/name.dart';
+import 'package:european_countries/model/flags.dart';
+import 'package:european_countries/model/languages.dart';
+import 'package:european_countries/model/name.dart';
 
 class Contries {
   Flags? flags;

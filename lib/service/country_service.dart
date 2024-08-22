@@ -1,6 +1,6 @@
 import 'package:dio/dio.dart';
 import 'package:european_countries/screens/config.dart';
-import 'package:european_countries/screens/model/contries.dart';
+import 'package:european_countries/model/contries.dart';
 
 class CountryService {
   static final CountryService _instance = CountryService();
